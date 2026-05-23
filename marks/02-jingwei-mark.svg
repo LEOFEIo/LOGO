@@ -1,20 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
-  <title>古见今遇 · 方案二 · 方印</title>
-  <desc>正方印章，四字田字格排布</desc>
-  <rect width="400" height="400" fill="#FAFAFA"/>
-  <!-- 外方框 -->
-  <rect x="60" y="60" width="280" height="280" fill="none" stroke="#1A1A1A" stroke-width="6"/>
-  <!-- 内十字 -->
-  <line x1="200" y1="60" x2="200" y2="340" stroke="#1A1A1A" stroke-width="2"/>
-  <line x1="60" y1="200" x2="340" y2="200" stroke="#1A1A1A" stroke-width="2"/>
-  <!-- 四字 -->
-  <text x="130" y="148" font-family="Songti SC, Noto Serif SC, serif" font-size="56" font-weight="700" fill="#C03A2B" text-anchor="middle">古</text>
-  <text x="270" y="148" font-family="Songti SC, Noto Serif SC, serif" font-size="56" font-weight="700" fill="#C03A2B" text-anchor="middle">见</text>
-  <text x="130" y="288" font-family="Songti SC, Noto Serif SC, serif" font-size="56" font-weight="700" fill="#C03A2B" text-anchor="middle">今</text>
-  <text x="270" y="288" font-family="Songti SC, Noto Serif SC, serif" font-size="56" font-weight="700" fill="#C03A2B" text-anchor="middle">遇</text>
-  <!-- 角丁 -->
-  <rect x="56" y="56" width="12" height="12" fill="#1A1A1A"/>
-  <rect x="332" y="56" width="12" height="12" fill="#1A1A1A"/>
-  <rect x="56" y="332" width="12" height="12" fill="#1A1A1A"/>
-  <rect x="332" y="332" width="12" height="12" fill="#1A1A1A"/>
+  <title>古见今遇 · 方案二 · 经纬交织</title>
+  <rect width="400" height="400" fill="#F5F0E6"/>
+  <!-- 四条横线（经·古） -->
+  <line x1="80" y1="120" x2="320" y2="120" stroke="#1A1A1A" stroke-width="2.5"/>
+  <line x1="80" y1="173" x2="320" y2="173" stroke="#1A1A1A" stroke-width="2.5"/>
+  <line x1="80" y1="227" x2="320" y2="227" stroke="#1A1A1A" stroke-width="2.5"/>
+  <line x1="80" y1="280" x2="320" y2="280" stroke="#1A1A1A" stroke-width="2.5"/>
+  <!-- 四条竖线（纬·今） -->
+  <line x1="120" y1="80" x2="120" y2="320" stroke="#1A1A1A" stroke-width="2.5"/>
+  <line x1="173" y1="80" x2="173" y2="320" stroke="#1A1A1A" stroke-width="2.5"/>
+  <line x1="227" y1="80" x2="227" y2="320" stroke="#1A1A1A" stroke-width="2.5"/>
+  <line x1="280" y1="80" x2="280" y2="320" stroke="#1A1A1A" stroke-width="2.5"/>
+  <!-- 中宫断开留白，置入朱点（遇） -->
+  <rect x="168" y="168" width="64" height="64" fill="#F5F0E6"/>
+  <circle cx="200" cy="200" r="12" fill="#C03A2B"/>
 </svg>

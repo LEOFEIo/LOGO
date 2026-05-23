@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
-  <title>古见今遇 · 方案五 · 圆角方块</title>
-  <desc>圆角正方底色块内白色四字，现代APP图标风格</desc>
-  <rect width="400" height="400" fill="#FAFAFA"/>
-  <!-- 圆角方块底 -->
-  <rect x="80" y="80" width="240" height="240" rx="40" ry="40" fill="#1A1A1A"/>
-  <!-- 四字白色 -->
-  <text x="148" y="185" font-family="Songti SC, Noto Serif SC, serif" font-size="44" font-weight="700" fill="#FFFFFF" text-anchor="middle">古</text>
-  <text x="252" y="185" font-family="Songti SC, Noto Serif SC, serif" font-size="44" font-weight="700" fill="#FFFFFF" text-anchor="middle">见</text>
-  <text x="148" y="268" font-family="Songti SC, Noto Serif SC, serif" font-size="44" font-weight="700" fill="#FFFFFF" text-anchor="middle">今</text>
-  <text x="252" y="268" font-family="Songti SC, Noto Serif SC, serif" font-size="44" font-weight="700" fill="#FFFFFF" text-anchor="middle">遇</text>
-  <!-- 中心朱点 -->
-  <circle cx="200" cy="220" r="4" fill="#C03A2B"/>
-  <!-- 底部文字 -->
-  <text x="200" y="360" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#1A1A1A" text-anchor="middle" letter-spacing="3" opacity="0.5">GU JIAN JIN YU · DIGITAL CULTURE</text>
+  <title>古见今遇 · 方案五 · 四象限</title>
+  <rect width="400" height="400" fill="#FFFFFF"/>
+  <!-- 四个象限色块（古·见·今·遇） -->
+  <!-- 左上 -->
+  <rect x="40" y="40" width="150" height="150" fill="#1A1A1A"/>
+  <!-- 右上 -->
+  <rect x="210" y="40" width="150" height="150" fill="#C03A2B"/>
+  <!-- 左下 -->
+  <rect x="40" y="210" width="150" height="150" fill="#C9A84C"/>
+  <!-- 右下 -->
+  <rect x="210" y="210" width="150" height="150" fill="#1A1A1A"/>
+  <!-- 中心留白圆（交汇·遇见） -->
+  <circle cx="200" cy="200" r="28" fill="#FFFFFF"/>
+  <circle cx="200" cy="200" r="6" fill="#C03A2B"/>
 </svg>
