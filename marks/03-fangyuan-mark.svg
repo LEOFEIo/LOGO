@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <title>古见今遇 · 方案三 · 横排线条</title>
+  <desc>四字横排，上下细线夹持，极简现代</desc>
+  <rect width="400" height="400" fill="#FAFAFA"/>
+  <!-- 上线 -->
+  <line x1="60" y1="160" x2="340" y2="160" stroke="#1A1A1A" stroke-width="2"/>
+  <!-- 四字横排 -->
+  <text x="200" y="222" font-family="Songti SC, Noto Serif SC, serif" font-size="48" font-weight="700" fill="#1A1A1A" text-anchor="middle" letter-spacing="16">古见今遇</text>
+  <!-- 下线 -->
+  <line x1="60" y1="245" x2="340" y2="245" stroke="#1A1A1A" stroke-width="2"/>
+  <!-- 英文 -->
+  <text x="200" y="278" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#1A1A1A" text-anchor="middle" letter-spacing="4" opacity="0.6">GU JIAN JIN YU</text>
+  <!-- 左侧小朱点 -->
+  <circle cx="60" cy="203" r="4" fill="#C03A2B"/>
+</svg>
